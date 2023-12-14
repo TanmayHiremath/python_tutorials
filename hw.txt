@@ -1,0 +1,30 @@
+Check if a variable x is greater than 10.
+Determine if a number is even or odd using if..else.
+Check if the length of my_list is greater than 5.
+Implement a program that checks if a number is positive, negative, or zero.
+
+Print numbers from 1 to 7 using a while loop.
+Calculate the sum of numbers from 1 to 5 using a while loop.
+Create a while loop that runs until a variable count reaches 3.
+Print even numbers from 2 to 8 using a while loop.
+
+Create an empty list named my_list.
+Add the elements 1, 2, and 3 to my_list.
+Access the second element of my_list.
+Append the element 4 to my_list.
+Remove the third element from my_list.
+Check if 2 is present in my_list.
+Find the length of my_list.
+Create a new list named new_list with elements 7, 8, and 9.
+Concatenate my_list and new_list.
+
+Print numbers from 15 to 10 using a for loop.
+Calculate the product of numbers from 1 to 4 using a for loop.
+Calculate the factorial of 5
+Print the square of each number from 1 to 3 using a for loop.
+Create a for loop that prints the keys of a dictionary.
+
+Create an empty dictionary named my_dict.
+Add the key-value pair "name" with the value "John" to my_dict.
+Access the value associated with the key "name" in my_dict.
+Update the value of the key "name" to "Jane" in my_dict.
